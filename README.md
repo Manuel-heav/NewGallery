@@ -4,8 +4,8 @@ Following along Theo's 0 to production tutorial
 
 ## TODO
 
-- [ ] Make it deploy
-- [ ] Scaffold basic ui with mock data
+- [x] Make it deploy
+- [x] Scaffold basic ui with mock data
 - [ ] Set up database (Vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add auth (clerk)
