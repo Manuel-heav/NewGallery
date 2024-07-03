@@ -38,7 +38,7 @@ export default function RootLayout({
         <Navbar />
         {children}
         {modal}
-        <div id="modal-root"/>
+        <div id="modal-root" />
       </body>
     </html>
     </ClerkProvider>
